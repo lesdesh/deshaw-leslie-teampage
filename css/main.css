@@ -1,0 +1,50 @@
+.hidden{
+    display: none;
+}
+body{
+    background-color: floralwhite;
+    font-family: basel-neue,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#container{
+    margin: 0 auto;
+    overflow: hidden;
+    flex-direction: row;
+}
+.banner{
+    max-width: 1920px;
+}
+.pic{
+    width:500px;
+    float:left; 
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+h2{
+    font-size: 50px;
+    font-family: basel-neue,sans-serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.aboutlbd{
+    float: left;
+    width: 1300px;
+    padding-left: 20px;
+}
+
+p{
+    font-size: 20px;
+}
+
+#leslie{
+  border: 2px;
+}
+
+#charlee{
+  display: none;
+  border: 2px;
+}
